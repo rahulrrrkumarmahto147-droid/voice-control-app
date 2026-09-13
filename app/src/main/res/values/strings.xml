@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VoiceControl AI</string>
+    <string name="accessibility_service_label">VoiceControl AI Accessibility Service</string>
+    <string name="accessibility_service_description">Enables VoiceControl AI to detect visible UI elements on your screen, tap buttons, scroll, type text, and perform system actions (Back, Home, Screenshot) using your spoken voice commands.</string>
+    <string name="enable_accessibility_service">Enable Accessibility Service</string>
+    <string name="accessibility_enabled">Accessibility Service Active</string>
+    <string name="accessibility_disabled">Accessibility Service Disabled</string>
+    <string name="mic_permission_required">Microphone Permission Required</string>
+    <string name="grant_mic_permission">Grant Microphone Access</string>
+    <string name="tap_to_speak">Tap to Speak</string>
+    <string name="listening">Listening…</string>
+    <string name="processing">Interpreting command…</string>
+    <string name="executing">Executing actions…</string>
+    <string name="completed">Command completed</string>
+    <string name="error">Error executing command</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "VoiceControl AI",
+  "description": "Control your Android phone with natural voice commands, intelligent UI screen interaction, accessibility automation, and multi-step action execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
